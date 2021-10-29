@@ -1,2 +1,2 @@
-# CARTOONIFY_IMAGES
-CARTOONIFY_IMAGES helps you in converting images into cartoons.
+# Daily Weather Forecasting machine learning
+Access current weather data for any location including over 200,000 cities.
