@@ -83,7 +83,7 @@ In the below snapshot you can see the current weather details like Temperature, 
 ## Connect with me! 🌐
 Known on internet as ** Keerthana Parthiban **
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/tanushree-b-s-9153951b1/)   [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">]()
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/keerthana-p-aa1725205)   [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/Keerthanaparthiban)
 
 ## Email Me :e-mail:
 
