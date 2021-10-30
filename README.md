@@ -79,3 +79,12 @@ Now, we can access the current weather details of any city in the world.
 In the below snapshot you can see the current weather details like Temperature, Pressure, Humidity, Sunrise and Sunset time of the city Delhi in India.
 
 ![image](https://user-images.githubusercontent.com/92458543/139555610-a56ef71b-7e69-4987-987e-567a26995910.png) 
+
+## Connect with me! 🌐
+Known on internet as ** Keerthana Parthiban **
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/tanushree-b-s-9153951b1/)   [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">]()
+
+## Email Me :e-mail:
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:keerthanap2435@gmail.com)
